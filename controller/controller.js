@@ -76,7 +76,7 @@ let userController = {
       next();
     } catch (err) {
       console.log(err);
-    }
+    };
   },
 };
 
