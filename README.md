@@ -19,13 +19,9 @@
 - Hapi/Joi: npm i @hapi/joi
 
 
-🧑‍💻 Desenvolvedor
-- Desenvolvido por Andrey Wilmsen de Paula (Desenvolvedor Full Stack)
-
-
 🗣 Considerações finais
 - Essa API foi desenvolvida com o foco de atender uma gama ampla de aplicações que necessitam utilizar um sistema de login com validações de permissões, sendo elas: Web, Mobile, Desktop e afins.
 - Espero que consigam tirar um bom proveito dessa ferramenta.
 
-
-
+🧑‍💻 Desenvolvedor
+- Andrey Wilmsen de Paula (Desenvolvedor Full Stack)
